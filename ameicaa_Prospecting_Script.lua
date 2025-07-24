@@ -1,3 +1,3 @@
 game:Shutdown()
 
--- they shutdown the game...
+-- they locked the game
